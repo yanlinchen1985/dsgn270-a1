@@ -42,7 +42,7 @@ For a commercial website, just looking good is not enough. It should not only ha
 
 Most common web design patterns can be found on JOEY's website, like *navigation tabs, cards, fat footer, calendar picker, carousel, rate content, account registration and so on*. All of these provide viewers a good experience.
 
-- Like many restaurants, the first screen of JOEY's front page displays some food photos and obvious buttons for reserving and ordering, which is convenient for guests to place orders and make reservations. 
+- Like many restaurants, the first screen of JOEY's front page displays food photos and obvious buttons for reserving and ordering, which is convenient for guests to place orders and make reservations. 
 
 - In the upper left corner, there is its simple but innovative LOGO which actually is the home link.
 
@@ -60,7 +60,7 @@ JOEY’s webpage can adapt to different screen sizes and orientations. It works 
 
 Considering the mobile users very well, on its mobile website, it puts the “order now” and “reserve” button in the “thumb zone”. Even though there is not a scroll track shown on mobile devices, the top of the second photo appears in the lower part of the first screen make the user know this mobile web page is scrollable. 
 
-On JOEY’s mobile website, viewers can find the hamburger menu in the upper right corner. After clicking it, there is a navigation drawer. Then, the menu can be found. However, the menu can’t be bookmarked for use in a QR Code. 
+On JOEY’s mobile website, viewers can find the hamburger menu in the upper right corner. After clicking it, there is a navigation drawer. Then,the menu can be found. However, the menu can’t be bookmarked for use in a QR Code. 
 
 
 
