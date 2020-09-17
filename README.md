@@ -8,7 +8,7 @@
 
 1. ## **Visual Hierarchy**
 
-A successful restaurant website's goal is to attract customers and promote its brand. My overall impression of JOEY’s website visuals is that it is a good website because of its concise and readable layout , photos of attractive food and dining atmosphere, a video showing the reopening plan and its short but effective text on pages. 
+A successful restaurant website's goal is to attract customers and promote its brand. My overall impression of JOEY’s website visuals is that it is pretty good because of its concise and readable layout, photos of attractive food and dining atmosphere, a video showing the reopening plan and the short but effective text on pages. 
 
 
 
@@ -20,13 +20,13 @@ Apart from these, the most important thing is it applies most visual hierarchy r
 
 - Use different sizes and scale of texts to signify the importance of the information. Besides that, the greater words or pictures can catch viewers’ eyes easily.
 
-- Choose the reasonable color. Although there is no very obvious color contrast, the white letters match most colors well. This makes these texts clear to read in colorful background photos.
+- Choose the reasonable color. Although there is no very obvious color contrast, the white letters match most colors well. This makes these texts clear to read in colorful background.
 
 - Alignment used in some text on its front page, and F pattern usually can be seen very easily. 
 
 - Following the rule of odds is also useful to make JOEY’s website appealing. For example, viewers can follow the information clearly when they see the three cards of “menu, liquor, happy hour” in middle part of each branch’s page.
 
-- With the very similar colors, styles and fonts, repetition make the whole website look very coordinated.
+- With the very similar colors, styles and fonts, repetition brings a sense of unity and cohesiveness.
 
 The design of the JOEY website is excellent in many aspects, but there are still somethings needed to be improved.
 
