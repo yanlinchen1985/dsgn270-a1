@@ -19,9 +19,13 @@ A successful restaurant website's goal is to attract customers and promote its b
 Apart from these, the most important thing is it applies most visual hierarchy rules that I have learned in our class.
 
 - Use different sizes and scale of texts to signify the importance of the information. Besides that, the greater words or pictures can catch viewers’ eyes easily.
+
 - Choose the reasonable color. Although there is no very obvious color contrast, the white letters match most colors well. This makes these texts clear to read in colorful background photos.
-- Alignment used in some text on its front page, especially the text written in big size, so F pattern usually can be seen. 
+
+- Alignment used in some text on its front page, and F pattern usually can be seen very easily. 
+
 - Following the rule of odds is also useful to make JOEY’s website appealing. For example, viewers can follow the information clearly when they see the three cards of “menu, liquor, happy hour” in middle part of each branch’s page.
+
 - With the very similar colors, styles and fonts, repetition make the whole website look very coordinated.
 
 The design of the JOEY website is excellent in many aspects, but there are still somethings needed to be improved.
@@ -39,13 +43,12 @@ For a commercial website, just looking good is not enough. It should not only ha
 Most common web design patterns can be found on JOEY's website, like *navigation tabs, cards, fat footer, calendar picker, carousel, rate content, account registration and so on*. All of these provide viewers a good experience.
 
 - Like many restaurants, the first screen of JOEY's front page displays some food photos and obvious buttons for reserving and ordering, which is convenient for guests to place orders and make reservations. 
+
 - In the upper left corner, there is its simple but innovative LOGO which actually is the home link.
 
 - Autocomplete is used when viewer wants to do some search of the branch location. This is helpful for someone like me who is a newcomer here, but it will be perfect if it can show the location on the map. 
 
-
 - There is an inline help box at the bottom of each page, which is convenient and necessary for customers to give suggestions and feedback. 
-
 
 I nearly do not find any violations of convention. The content on its website is scannable easily by using card pattern, heading and short paragraphs. There is not any text with too low of a contrast ratio. Even though the designer would like to show minimalism somewhere, the text still is white on the dark background so that it is very readable. 
 
