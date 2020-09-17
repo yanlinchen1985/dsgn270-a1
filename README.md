@@ -1,6 +1,6 @@
 # JOEY's Website Review 
 
-**JOEY** is a premium casual restaurant which was established in Calgary in 1992. As a chain restaurant, JOEY has a general website and the own page of its 27 each branches. Mainly based on the following three aspects, I will make a review of [JOEY’s website](https://joeyrestaurants.com/).
+**JOEY** is a premium casual restaurant which was established in Calgary in 1992. As a chain restaurant, JOEY has a website where you can find its 27 branches. Mainly based on the following three aspects, I will make a review of [JOEY’s website](https://joeyrestaurants.com/).
 
 
 
