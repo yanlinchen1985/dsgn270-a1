@@ -28,7 +28,7 @@ Apart from these, the most important thing is it applies most visual hierarchy r
 
 - With the very similar colors, styles and fonts, repetition brings a sense of unity and cohesiveness.
 
-The design of the JOEY website is excellent in many aspects, but there are still somethings needed to be improved.
+The design of the JOEY website is excellent in many aspects, but there are still some things needed to be improved.
 
 - Leaving more negative space could help this website more effective .
 
@@ -60,7 +60,7 @@ JOEY’s webpage can adapt to different screen sizes and orientations. It works 
 
 Considering the mobile users very well, on its mobile website, it puts the “order now” and “reserve” button in the “thumb zone”. Even though there is not a scroll track shown on mobile devices, the top of the second photo appears in the lower part of the first screen make the user know this mobile web page is scrollable. 
 
-On JOEY’s mobile website, viewers can find the hamburger menu in the upper right corner. After clicking it, there is a navigation drawer. Then,the menu can be found. However, the menu can’t be bookmarked for use in a QR Code. 
+On JOEY’s mobile website, viewers can find the hamburger menu in the upper right corner. After clicking it, there is a navigation drawer. Then，the menu can be found. However, the menu can’t be bookmarked for use in a QR Code. 
 
 
 
