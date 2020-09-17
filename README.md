@@ -14,11 +14,9 @@ A successful restaurant website's goal is to attract customers and promote its b
 
 > *"WE FIGURE OUT WHAT EACH GUEST NEEDS AND CREATE THE EXPERIENCE FOR THEM."   JOEY*
 
-> *DESSERT + MASON JARS = PORTABLE JOY*       *JOEY*
 
 
-
-Apart from these, the most important thing is it probably applies most visual hierarchy rules that I have learned in our class.
+Apart from these, the most important thing is it applies most visual hierarchy rules that I have learned in our class.
 
 - Use different sizes and scale of texts to signify the importance of the information. Besides that, the greater words or pictures can catch viewers’ eyes easily.
 - Choose the reasonable color. Although there is no very obvious color contrast, the white letters match most colors well. This makes these texts clear to read in colorful background photos.
